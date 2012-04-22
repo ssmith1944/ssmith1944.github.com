@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Elijah Miller</title>
- <link href="http://jqr.github.com/atom.xml" rel="self"/>
- <link href="http://jqr.github.com/"/>
+ <title>Stephan Smith</title>
+ <link href="http://ssmith1944.github.com/atom.xml" rel="self"/>
+ <link href="http://ssmith1944.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://jqr.github.com/</id>
+ <id>http://ssmith1944.github.com/</id>
  <author>
-   <name>Elijah Miller</name>
-   <email>elijah.miller@gmail.com</email>
+   <name>Stephan Smith</name>
+   <email>StephanlSmithCPA@gmail.com</email>
  </author>
  
  {% for post in site.posts %}
